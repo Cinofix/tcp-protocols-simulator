@@ -1,0 +1,4 @@
+Result with method NI1:  rho_Z = 0.44691425135002
+Result with method NI2b: rho_Z = 0.44685851640499
+Result with method NI2a: rho_Z = 0.44683779468645
+Result with method NI3:  rho_Z = 0.44691432915086
