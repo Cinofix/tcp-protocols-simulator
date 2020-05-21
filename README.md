@@ -1,5 +1,5 @@
 # Simulation and Networks performance: TCP protocols #
-The aim of the project is to study the performance of the following TCP procolli: AIMD, RENO, TAHOE.
+The aim of the project is to study the performance of the following TCP protocols: AIMD, RENO, TAHOE.
 
 
 ### Run
@@ -15,4 +15,5 @@ $java -jar Simtipee.jar protocol n_host buff_size pr_package_success rate_packag
 ```
 
 ### Contacts
-Se avete dei dubbi sul progetto non esitate a scrivermi una e-mail: 854866 su stud.unive.it | acina04 su gmail.com
+If you have any doubts about the project do not hesitate to write me an e-mail:  854866[at]stud[dot]unive[dot]it | acina04[at]gmail[dot]com
+
